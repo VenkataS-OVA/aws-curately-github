@@ -22,6 +22,7 @@ function App() {
             <span>surya</span>
             <h2>venkata</h2>
             <h1> update from github</h1>
+            <h2>this from github version </h2>
       </header>
     </div>
   );
