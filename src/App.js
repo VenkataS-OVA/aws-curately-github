@@ -18,7 +18,7 @@ function App() {
           Learn React
         </a>
             <h1>aws github</h1>
-            <h2>curately aws</h2>
+            <h2>curately</h2>
       </header>
     </div>
   );
