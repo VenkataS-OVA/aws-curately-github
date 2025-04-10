@@ -19,6 +19,7 @@ function App() {
         </a>
             <h1>aws github</h1>
             <h2>curately</h2>
+            <span>surya</span>
       </header>
     </div>
   );
