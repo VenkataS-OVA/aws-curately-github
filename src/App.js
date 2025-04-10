@@ -21,6 +21,7 @@ function App() {
             <h2>curately</h2>
             <span>surya</span>
             <h2>venkata</h2>
+            <h1> update from github</h1>
       </header>
     </div>
   );
